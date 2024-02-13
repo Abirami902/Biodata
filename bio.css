@@ -1,0 +1,397 @@
+.A{
+    text-align: center;
+    margin-right:500px;
+    margin-bottom: -13px;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.B{
+     width: 89px;
+     height: 89px;
+     border-color: black;
+     border-style:solid ;
+     border-width:2px ;
+     padding: 20px;
+     background-color:white;
+     margin-left: 743px;
+    margin-top: -67px;
+}
+
+/* biodata */
+
+/* personal data |*/
+.c{
+    width: 732px;
+    height: 1px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:black;
+    margin-left: 101px;
+    margin-top: 15px;
+    color: white;
+   font-family:Arial, Helvetica, sans-serif
+}
+
+.d{
+    width: 732px;
+    height:886px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:white;
+    margin-left: 101px;
+    margin-top: 15px;
+    color:black;
+
+}
+
+/* text filed style */
+input{
+    border-top-style: none;
+    border-right-style:none ;
+    border-left-style: none;
+    margin-left: 90px;
+    width: 200px;
+    
+
+}
+
+.crr{
+    
+    display: flex;
+    border-style: outset;
+    margin-left: 70px;
+    margin-top: -10px;
+    height: 5px;
+    width: 250px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    }
+
+  .pr{
+
+        margin-left: 500px;
+        margin-top: -859px;
+
+}
+
+.z{
+    
+        display: flex;
+        border-style: outset;
+        margin-left: 100px;
+        margin-top: -25px;
+        height: 6px;
+        width: 250px;
+         border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+    } 
+
+
+.y{
+    margin-left: 2px;
+    margin-top: -500px;
+}
+
+/* EDUCATIONAL BACKGROUND */
+
+
+.E{
+    width: 732px;
+    height: 1px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:black;
+    margin-left: 101px;
+    margin-top: 352px;
+    color: white;
+   font-family:Arial, Helvetica, sans-serif
+}
+
+.F{
+    width: 732px;
+    height: 277px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:white;
+    margin-left: 101px;
+    margin-top:13px;
+    color:black;
+
+}
+
+.ed{
+    
+    display: flex;
+    border-style: outset;
+    margin-left: 120px;
+    margin-top: -18px;
+    height: 20px;
+    width: 250px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    }
+    
+/* degree & special high width */
+
+.edd{
+    display: flex;
+    border-style: outset;
+    margin-left: 150px;
+    margin-top: -18px;
+    height: 20px;
+    width: 580px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+
+.fr{
+
+    margin-left: 500px;
+    margin-top: -300px;
+}
+
+
+.yr{
+    margin-left: 29px;
+    margin: 4px;
+    margin-bottom: 10px;
+}
+.rrr{
+    
+        display: flex;
+        border-style: outset;
+        margin-left: 120px;
+        margin-top: -18px;
+        height: 20px;
+        width: 200px;
+         border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        
+}
+    
+.t4
+{
+
+    margin-top: -1px;
+    margin-left: 20px;
+}
+
+
+
+
+/* emplolyment record */
+
+.G{
+    
+    width: 732px;
+    height: 1px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:black;
+    margin-left: 101px;
+    margin-top: 184px;
+    color: white;
+   font-family:Arial, Helvetica, sans-serif
+
+}
+
+.h{
+    width: 732px;
+    height: 218px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:white;
+    margin-left: 100px;
+    margin-top: 14px;
+    color:black;
+
+}
+
+/* company name high width */
+.r11{
+    
+    display: flex;
+    border-style: outset;
+    margin-left: 120px;
+    margin-top: -29px;
+    height: 20px;
+    width:600px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    }
+
+    .r1{
+    
+        display: flex;
+        border-style: outset;
+        margin-left: 100px;
+        margin-top: -29px;
+        height: 20px;
+        width: 250px;
+         border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        }
+
+ .ft{
+            display: flex;
+            margin-left: 490px;
+            margin-top: -210px;
+     }
+
+
+.FT{
+
+  border-style: outset;
+  margin-left: 2px;
+  margin-top: -2px;
+  width: 140px;
+   border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+}
+
+.FTT{
+
+    border-style: outset;
+    margin-left: 2px;
+    margin-top: -2px;
+    width: 140px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+.ftt{
+    display: flex;
+    margin-left: 490px;
+    margin-top: 25px;
+} 
+
+/* character reference*/
+
+.I{
+    
+    width: 732px;
+    height: 1px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 20px;
+    background-color:black;
+    margin-left: 98px;
+    margin-top: 126px;
+    color: white;
+   font-family:Arial, Helvetica, sans-serif
+
+}
+
+.J{
+width: 732px;
+height: 200px;
+border-radius: 5px;
+border-color: black;
+border-style:solid ;
+border-width:2px ;
+padding: 20px;
+background-color:white;
+margin-left: 101px;
+margin-top: 15px;
+color:black;
+
+}
+
+.cr{
+    
+    display: flex;
+    border-style: outset;
+    margin-left: 100px;
+    margin-top: -29px;
+    height: 20px;
+    width: 250px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    }
+    
+.jr{
+        margin-left: 503px;
+        margin-top: -215px;
+    }
+    
+    
+
+/* bottom  box 5*/
+
+
+.k{
+    width: 356px;
+    height: 230px;
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-width:2px ;
+    padding: 15Px;
+    background-color:white;
+    margin-left: 101px;
+    margin-top: 66px;
+    color:black;
+
+}
+
+.ab{
+    
+    display: flex;
+    border-style: outset;
+    margin-left: 100px;
+    margin-top: -29px;
+    height: 20px;
+    width: 250px;
+     border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    }
+
+    /* last para */
+    
+    .L{
+        margin-top: -248px;
+        margin-left: 514px;
+    
+    }
+
+    .a{
+        margin-left:500px;
+        margin-top:70px;
+        width: 350px;
+
+    }
+
+    .b{
+        margin-left: 600px;
+    }
